@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "hospitalName": "Elite",
+    "patientCount": 900,
+    "location": "Koorkacheri"
+  },
+  {
+    "id": 2,
+    "hospitalName": "Aswani",
+    "patientCount": 500,
+    "location": "Thrissur"
+  },
+  {
+    "id": 3,
+    "hospitalName": "Amritha",
+    "location": "Eranakulam",
+    "patientCount": 2500
+  },
+  {
+    "id": 4,
+    "hospitalName": "Mi",
+    "patientCount": 900,
+    "location": "Egandiyoor"
+  },
+  {
+    "id": 5,
+    "hospitalName": "Appolo",
+    "patientCount": 1000,
+    "location": "Tvm"
+  }
+]
